@@ -1,0 +1,1 @@
+Use terminal on windows otherwise some features wont work. Open Terminal on the directory where the C code is, then use "gcc FILE_NAME.c" (without quotations) to compile, then simply type "a" (without quotes) and press enter to run the code.
